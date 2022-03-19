@@ -7,7 +7,6 @@ float raizCuadrada(float numero)
 {
 
     return sqrt(numero);
-
 }
 
 int main(int argc, char const *argv[])
